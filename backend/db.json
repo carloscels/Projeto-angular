@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "caneta preta",
+      "price": "01.50",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "notebook",
+      "price": 2000.01
+    },
+    {
+      "id": 3,
+      "name": "sansung",
+      "price": 1599.99
+    },
+    {
+      "name": "lapis preto",
+      "price": "2.50",
+      "id": 4
+    },
+    {
+      "name": "aaa",
+      "price": "0123.0",
+      "id": 5
+    }
+   
+  ]
+}
